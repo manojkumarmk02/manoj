@@ -22,6 +22,8 @@ public class DataTypes {
 	System.out.println("my amo is ="+amo);
 	float value  = 87.58995474f;
 	System.out.println("my value  is ="+value );
+	float value1  = 98.586544474f;
+	System.out.println("my value  is ="+value1 );
 	double a = 46.542445677885;
 	System.out.println("my a is ="+a);
 	double b = 65.632344567745;
