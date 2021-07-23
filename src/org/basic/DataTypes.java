@@ -36,5 +36,8 @@ public class DataTypes {
 	System.out.println("my report is ="+report);
 	String email = "Manoj356@gmail.com";
 	System.out.println(email); 
+	String email1 = "Mano5564@gmail.com";
+	System.out.println(email1); 
+	
 }
 }
